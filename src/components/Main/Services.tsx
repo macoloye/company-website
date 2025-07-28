@@ -218,7 +218,7 @@ const Services: React.FC = () => {
       <style>{servicesStyles}</style>
       <div className="container">
         <div className="services-header">
-          <h2>What We Provide: Full AI Solutions & Assurance</h2>
+          <h2>Full AI Solutions & Assurance</h2>
           <p>We deliver a holistic AI ecosystem designed to enhance every facet of your business, from customer interactions to internal operations and strategic decision-making.</p>
         </div>
         

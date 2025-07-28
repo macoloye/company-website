@@ -6,6 +6,7 @@ import MainPage from './pages/MainPage';
 import SolutionPage from './pages/SolutionPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import ROICalculatorPage from './pages/ROICalculatorPage';
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
             <Route path="/solution" element={<SolutionPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/contact" element={<ContactPage />} />
+            <Route path="/roi-calculator" element={<ROICalculatorPage />} />
           </Routes>
         </main>
         <Footer />

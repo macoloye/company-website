@@ -1,9 +1,9 @@
 import React from 'react';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
-import Services from '../components/Services';
-import About from '../components/About';
-import CallToAction from '../components/CallToAction';
+import Services from '../components/Main/Services';
+import About from '../components/Main/About';
+import CallToAction from '../components/Main/CallToAction';
 
 const MainPage: React.FC = () => {
   return (

@@ -73,6 +73,7 @@ const Footer: React.FC = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Straits</h3>
+            <p> JomLuz Tech Sdn. Bhd. </p>
             <p>
               Full AI Solutions & Assurance.
             </p>
